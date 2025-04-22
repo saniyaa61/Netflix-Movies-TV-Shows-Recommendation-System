@@ -1,0 +1,86 @@
+[
+    {
+		"firstName": "Millie", 
+		"lastName": "Bobby Brown", 
+		"dateOfBirth": "2004-02-19", 
+		"nationality": "British", 
+		"isActive": true
+	},
+    {
+		"firstName": "Ray", 
+		"lastName": "Winstone", 
+		"dateOfBirth": "1957-02-19", 
+		"nationality": "British", 
+		"isActive": true
+	},
+    {
+		"firstName": "Joey", 
+		"lastName": "King", 
+		"dateOfBirth": "1999-07-30", 
+		"nationality": "American", 
+		"isActive": true
+	},
+    {
+		"firstName": "Chase", 
+		"lastName": "Stokes", 
+		"dateOfBirth": "1992-09-16", 
+		"nationality": "American", 
+		"isActive": true
+	},
+    {
+		"firstName": "Kerry", 
+		"lastName": "Washington", 
+		"dateOfBirth": "1977-01-31", 
+		"nationality": "American", 
+		"isActive": true
+	},
+    {
+		"firstName": "Ebony", 
+		"lastName": "Obsidian", 
+		"dateOfBirth": "1990-04-12", 
+		"nationality": "American", 
+		"isActive": true
+	},
+    {
+		"firstName": "Soo-hyun", 
+		"lastName": "Kim", 
+		"dateOfBirth": "1988-02-16", 
+		"nationality": "South Korean", 
+		"isActive": true
+	},
+    {
+		"firstName": "Ji-won", 
+		"lastName": "Kim", 
+		"dateOfBirth": "1992-10-19", 
+		"nationality": "South Korean", 
+		"isActive": true
+	},
+    {
+		"firstName": "Jun-ho", 
+		"lastName": "Lee", 
+		"dateOfBirth": "1990-01-25", 
+		"nationality": "South Korean", 
+		"isActive": true
+	},
+    {
+		"firstName": "Yoon-ah", 
+		"lastName": "Im", 
+		"dateOfBirth": "1990-05-30", 
+		"nationality": "South Korean", 
+		"isActive": true
+	},
+    {
+		"firstName": "Ji-hyun", 
+		"lastName": "Park", 
+		"dateOfBirth": "1982-02-25", 
+		"nationality": "South Korean", 
+		"isActive": true
+	},
+    {
+		"firstName": "Hyung-sik", 
+		"lastName": "Park", 
+		"dateOfBirth": "1991-11-16", 
+		"nationality": "South Korean", 
+		"isActive": true
+	}
+]

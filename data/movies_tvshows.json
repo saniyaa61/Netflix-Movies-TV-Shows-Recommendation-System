@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Damsel",
+        "director": "Juan Carlos Fresnadillo",
+        "genre": "Action & Adventure",
+        "releaseDate": "2024-03-08",
+        "pgRating": "PG-13",
+        "description": "A young woman's marriage turns into a survival fight against a dragon.",
+        "recommendationDescription": "Even a giant talking dragon can’t save this feminist fantasy survival thriller.",
+        "recommendationScore": 8,
+        "averageRating": 7.5,
+        "isMovie": true
+    },
+    {
+        "name": "Uglies",
+        "director": "McG",
+        "genre": "Sci-Fi & Fantasy",
+        "releaseDate": "2024-09-13",
+        "pgRating": "PG-13",
+        "description": "In a world obsessed with beauty, one girl rebels against the system.",
+        "recommendationDescription": "A sleek dystopian tale with a rebellious heart.",
+        "recommendationScore": 7,
+        "averageRating": 6.8,
+        "isMovie": true
+    },
+    {
+        "name": "The Six Triple Eight",
+        "director": "Tyler Perry",
+        "genre": "Historical Drama",
+        "releaseDate": "2024-12-20",
+        "pgRating": "PG-13",
+        "description": "Black women in WWII defy odds in the 6888th Postal Battalion.",
+        "recommendationDescription": "An inspiring tribute to unsung heroes.",
+        "recommendationScore": 9,
+        "averageRating": 8.5,
+        "isMovie": true
+    },
+    {
+        "name": "Queen of Tears",
+        "director": "Jang Young-woo, Kim Hee-won",
+        "genre": "Romantic TV Comedies",
+        "releaseDate": "2024-03-09",
+        "pgRating": "PG-13",
+        "description": "A couple faces a marital crisis with love and tears.",
+        "recommendationDescription": "True to its name, it’ll have you tearing up quite a bit.",
+        "recommendationScore": 9,
+        "averageRating": 9.8,
+        "isMovie": false
+    },
+    {
+        "name": "King the Land",
+        "director": "Im Hyun-wook",
+        "genre": "Romantic TV Comedies",
+        "releaseDate": "2023-06-17",
+        "pgRating": "PG-13",
+        "description": "A hotel heir and employee find love amid chaos.",
+        "recommendationDescription": "A charming rom-com with a feel-good vibe.",
+        "recommendationScore": 7,
+        "averageRating": 8.2,
+        "isMovie": false
+    },
+    {
+        "name": "Doctor Slump",
+        "director": "Oh Hyun-jong",
+        "genre": "Romantic TV Comedies",
+        "releaseDate": "2024-01-27",
+        "pgRating": "PG-13",
+        "description": "Two rival doctors hit rock bottom and heal together.",
+        "recommendationDescription": "A heartfelt slump-to-success story.",
+        "recommendationScore": 8,
+        "averageRating": 8.0,
+        "isMovie": false
+    }
+]

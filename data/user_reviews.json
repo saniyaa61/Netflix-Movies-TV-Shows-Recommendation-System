@@ -1,0 +1,146 @@
+[
+    {
+        "username": "dinali",
+        "authorName": "MovieFan123",
+        "content": "I loved the empowering message of this movie! The dragon scenes were intense, but I wish there was more character development.",
+        "score": 4,
+        "title": "MovieFan123's Review of Damsel",
+        "movieTVShow": "Damsel"
+    },
+    {
+        "username": "sofiaaa",
+        "authorName": "FantasyLover",
+        "content": "The visuals were amazing, and I loved the twist on the damsel-in-distress trope!",
+        "score": 4.5,
+        "title": "FantasyLover's Review of Damsel",
+        "movieTVShow": "Damsel"
+    },
+    {
+        "username": "alexk",
+        "authorName": "Cinephile88",
+        "content": "A decent fantasy film, but I expected more depth in the story.",
+        "score": 3,
+        "title": "Cinephile88's Review of Damsel",
+        "movieTVShow": "Damsel"
+    },
+    {
+        "username": "dinali",
+        "authorName": "SciFiLover99",
+        "content": "The concept was super interesting, but the execution felt a bit flat. Still worth a watch for the visuals!",
+        "score": 3.5,
+        "title": "SciFiLover99's Review of Uglies",
+        "movieTVShow": "Uglies"
+    },
+    {
+        "username": "sofiaaa",
+        "authorName": "BookNerd",
+        "content": "As a fan of the book, I was a bit disappointed. The movie didn\u2019t capture the depth of the story.",
+        "score": 3.5,
+        "title": "BookNerd's Review of Uglies",
+        "movieTVShow": "Uglies"
+    },
+    {
+        "username": "alexk",
+        "authorName": "FutureWatcher",
+        "content": "I enjoyed the dystopian setting and the special effects were great!",
+        "score": 4,
+        "title": "FutureWatcher's Review of Uglies",
+        "movieTVShow": "Uglies"
+    },
+    {
+        "username": "dinali",
+        "authorName": "HistoryBuff22",
+        "content": "Such an inspiring story! I learned so much, and the acting was top-notch.",
+        "score": 5,
+        "title": "HistoryBuff22's Review of The Six Triple Eight",
+        "movieTVShow": "The Six Triple Eight"
+    },
+    {
+        "username": "sofiaaa",
+        "authorName": "FilmFanatic",
+        "content": "A beautifully told story that honors the women of the 6888th. Highly recommend!",
+        "score": 4.8,
+        "title": "FilmFanatic's Review of The Six Triple Eight",
+        "movieTVShow": "The Six Triple Eight"
+    },
+    {
+        "username": "alexk",
+        "authorName": "Viewer123",
+        "content": "Great performances, but I felt some parts were a bit slow.",
+        "score": 4,
+        "title": "Viewer123's Review of The Six Triple Eight",
+        "movieTVShow": "The Six Triple Eight"
+    },
+    {
+        "username": "dinali",
+        "authorName": "KDramaAddict",
+        "content": "This drama had me crying every episode! The leads are amazing together.",
+        "score": 4.8,
+        "title": "KDramaAddict's Review of Queen of Tears",
+        "movieTVShow": "Queen of Tears"
+    },
+    {
+        "username": "sofiaaa",
+        "authorName": "TearfulWatcher",
+        "content": "One of the best K-dramas I\u2019ve seen. So emotional and well-acted!",
+        "score": 5,
+        "title": "TearfulWatcher's Review of Queen of Tears",
+        "movieTVShow": "Queen of Tears"
+    },
+    {
+        "username": "alexk",
+        "authorName": "DramaFan",
+        "content": "I loved the romance, but the ending felt a bit rushed.",
+        "score": 4.2,
+        "title": "DramaFan's Review of Queen of Tears",
+        "movieTVShow": "Queen of Tears"
+    },
+    {
+        "username": "dinali",
+        "authorName": "RomComFan",
+        "content": "So cute and funny! Perfect for a cozy night in.",
+        "score": 4.2,
+        "title": "RomComFan's Review of King the Land",
+        "movieTVShow": "King the Land"
+    },
+    {
+        "username": "sofiaaa",
+        "authorName": "LoveLaughs",
+        "content": "The chemistry between the leads is off the charts! A great rom-com.",
+        "score": 4.5,
+        "title": "LoveLaughs' Review of King the Land",
+        "movieTVShow": "King the Land"
+    },
+    {
+        "username": "alexk",
+        "authorName": "HappyViewer",
+        "content": "A fun watch, but some episodes felt a bit repetitive.",
+        "score": 3.8,
+        "title": "HappyViewer's Review of King the Land",
+        "movieTVShow": "King the Land"
+    },
+    {
+        "username": "dinali",
+        "authorName": "DramaWatcher",
+        "content": "A great mix of humor and emotion. I enjoyed the medical cases too!",
+        "score": 4,
+        "title": "DramaWatcher's Review of Doctor Slump",
+        "movieTVShow": "Doctor Slump"
+    },
+    {
+        "username": "sofiaaa",
+        "authorName": "MedFan",
+        "content": "The leads are so charming, and I loved the lighthearted tone.",
+        "score": 4.3,
+        "title": "MedFan's Review of Doctor Slump",
+        "movieTVShow": "Doctor Slump"
+    },
+    {
+        "username": "alexk",
+        "authorName": "KDramaLover",
+        "content": "It\u2019s a good drama, but I wanted more focus on the medical side.",
+        "score": 3.7,
+        "title": "KDramaLover's Review of Doctor Slump",
+        "movieTVShow": "Doctor Slump"
+    }
+]

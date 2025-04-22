@@ -1,0 +1,146 @@
+[
+    {
+        "sourceName": "Rotten Tomatoes",
+        "description": "Damsel flips the classic fairy tale trope on its head with a fierce lead performance by Millie Bobby Brown. A must-watch for fantasy fans!",
+        "rating": 7.5,
+        "sourceLocation": "https://www.rottentomatoes.com/m/damsel_2023",
+        "isOnline": true,
+        "movieTVShow": "Damsel"
+    },
+    {
+        "sourceName": "IMDb",
+        "description": "A visually stunning film with a strong message, though the pacing can be uneven at times.",
+        "rating": 6.8,
+        "sourceLocation": "https://www.imdb.com/title/tt13452446/reviews/",
+        "isOnline": true,
+        "movieTVShow": "Damsel"
+    },
+    {
+        "sourceName": "The Guardian",
+        "description": "Millie Bobby Brown shines in this empowering tale, but the plot feels predictable in parts.",
+        "rating": 7.0,
+        "sourceLocation": "https://www.theguardian.com/film/2024/mar/08/damsel-movie-review-netflix-millie-bobby-brown",
+        "isOnline": true,
+        "movieTVShow": "Damsel"
+    },		
+    {
+        "sourceName": "Rotten Tomatoes",
+        "description": "A thought-provoking dystopian tale with stunning visuals, though the pacing can feel uneven at times.",
+        "rating": 6.8,
+        "sourceLocation": "https://www.rottentomatoes.com/m/uglies",
+        "isOnline": true,
+        "movieTVShow": "Uglies"
+    },
+    {
+        "sourceName": "IMDb",
+        "description": "The concept is intriguing, but the film struggles to balance its themes and action.",
+        "rating": 6.5,
+        "sourceLocation": "https://www.imdb.com/title/tt13186604/reviews/",
+        "isOnline": true,
+        "movieTVShow": "Uglies"
+    },
+    {
+        "sourceName": "The Guardian",
+        "description": "A decent adaptation of the book, but it lacks the emotional depth of the source material.",
+        "rating": 6.2,
+        "sourceLocation": "https://www.theguardian.com/film/2024/sep/13/uglies-review-netflix-book-adaptation",
+        "isOnline": true,
+        "movieTVShow": "Uglies"
+    },
+    {
+        "sourceName": "Rotten Tomatoes",
+        "description": "A powerful and inspiring story of resilience, brought to life with stellar performances.",
+        "rating": 8.2,
+        "sourceLocation": "https://www.rottentomatoes.com/m/the_six_triple_eight",
+        "isOnline": true,
+        "movieTVShow": "The Six Triple Eight"
+    },
+    {
+        "sourceName": "IMDb",
+        "description": "An important story that’s told with heart and authenticity.",
+        "rating": 8.0,
+        "sourceLocation": "https://www.imdb.com/title/tt24458622/reviews/",
+        "isOnline": true,
+        "movieTVShow": "The Six Triple Eight"
+    },
+    {
+        "sourceName": "The Guardian",
+        "description": "A moving tribute to unsung heroes, though some scenes feel overly dramatized.",
+        "rating": 7.8,
+        "sourceLocation": "https://www.theguardian.com/film/2024/dec/22/the-six-triple-eight-review-black-womens-6888-postal-battalion-second-world-war-tyler-perry-kerry-washington",
+        "isOnline": true,
+        "movieTVShow": "The Six Triple Eight"
+    },
+    {
+        "sourceName": "Rotten Tomatoes",
+        "description": "An emotional rollercoaster with brilliant chemistry between the leads. A tearjerker in the best way!",
+        "rating": 8.5,
+        "sourceLocation": "https://www.rottentomatoes.com/tv/queen_of_tears/s01",
+        "isOnline": true,
+        "movieTVShow": "Queen of Tears"
+    },
+    {
+        "sourceName": "IMDb",
+        "description": "A beautifully crafted drama that balances romance and tragedy perfectly.",
+        "rating": 8.7,
+        "sourceLocation": "https://www.imdb.com/title/tt27668559/reviews/",
+        "isOnline": true,
+        "movieTVShow": "Queen of Tears"
+    },
+    {
+        "sourceName": "The Fangirl Verdict",
+        "description": "The performances are top-notch, but the plot can feel overly melodramatic at times.",
+        "rating": 8.0,
+        "sourceLocation": "https://thefangirlverdict.com/2024/05/06/review-queen-of_tears/",
+        "isOnline": true,
+        "movieTVShow": "Queen of Tears"
+    },
+    {
+        "sourceName": "Rotten Tomatoes",
+        "description": "A lighthearted and charming rom-com with plenty of swoon-worthy moments.",
+        "rating": 7.9,
+        "sourceLocation": "https://www.rottentomatoes.com/tv/king_the_land/s01",
+        "isOnline": true,
+        "movieTVShow": "King the Land"
+    },
+    {
+        "sourceName": "IMDb",
+        "description": "A feel-good drama that delivers on romance and humor.",
+        "rating": 7.6,
+        "sourceLocation": "https://www.imdb.com/title/tt26693803/reviews/",
+        "isOnline": true,
+        "movieTVShow": "King the Land"
+    },
+    {
+        "sourceName": "The Fangirl Verdict",
+        "description": "Fun and fluffy, but it doesn’t break any new ground in the genre.",
+        "rating": 7.2,
+        "sourceLocation": "https://thefangirlverdict.com/2023/08/21/review-king-the-land/",
+        "isOnline": true,
+        "movieTVShow": "King the Land"
+    },
+    {
+        "sourceName": "Rotten Tomatoes",
+        "description": "A refreshing take on the medical drama genre, blending humor and heart effectively.",
+        "rating": 7.3,
+        "sourceLocation": "https://www.rottentomatoes.com/tv/doctor_slump/s01",
+        "isOnline": true,
+        "movieTVShow": "Doctor Slump"
+    },
+    {
+        "sourceName": "IMDb",
+        "description": "The leads have great chemistry, but the medical cases can feel repetitive.",
+        "rating": 7.0,
+        "sourceLocation": "https://www.imdb.com/title/tt27135274/reviews/",
+        "isOnline": true,
+        "movieTVShow": "Doctor Slump"
+    },
+    {
+        "sourceName": "The Fangirl Verdict",
+        "description": "A solid drama with a good mix of comedy and drama, though it’s not groundbreaking.",
+        "rating": 6.8,
+        "sourceLocation": "https://thefangirlverdict.com/2024/05/12/review-doctor-slump/",
+        "isOnline": true,
+        "movieTVShow": "Doctor Slump"
+    }
+]

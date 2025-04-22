@@ -1,0 +1,59 @@
+[
+    {
+        "username": "dinali",
+        "email": "dina34@gmail.com",
+        "password": "123",
+        "firstName": "Dina",
+        "lastName": "Liam",
+        "dateOfBirth": "2003-05-27",
+        "country": "USA",
+        "preferredMovie": "Damsel",
+        "preferredTVShow": "King the Land",
+        "watchlist": [
+            "King the Land",
+            "The Six Triple Eight"
+        ]
+    },
+    {
+        "username": "sofiaaa",
+        "email": "sofiaadam@gmail.com",
+        "password": "123",
+        "firstName": "Sofia",
+        "lastName": "Adam",
+        "dateOfBirth": "2004-09-12",
+        "country": "Qatar",
+        "preferredMovie": "Uglies",
+        "preferredTVShow": "Doctor Slump",
+        "watchlist": [
+            "Uglies"
+        ]
+    },
+    {
+        "username": "alexk",
+        "email": "alexkim@gmail.com",
+        "password": "123",
+        "firstName": "Alex",
+        "lastName": "Kim",
+        "dateOfBirth": "2002-03-15",
+        "country": "Canada",
+        "preferredMovie": "The Six Triple Eight",
+        "preferredTVShow": "Queen of Tears",
+        "watchlist": [
+            "Uglies"
+        ]
+    },
+    {
+        "username": "saniya61",
+        "email": "saniya@gmail.com",
+        "password": "$2y$10$QitMJRh9X4OEMW6ult1wU.Vty0AEbdnjLxOVIDEBPxRWi9y\/e.qpi",
+        "firstName": "",
+        "lastName": "",
+        "dateOfBirth": "",
+        "country": "",
+        "preferredMovie": "",
+        "preferredTVShow": "",
+        "watchlist": [
+            "Queen of Tears"
+        ]
+    }
+]
